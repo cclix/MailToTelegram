@@ -1,0 +1,2 @@
+mailpath = /root/mail/INBOX/new/*
+bottoken = 123456789:abcdefghijklmnopqrstuvwxyz123456789
